@@ -7,3 +7,5 @@
 <div align="center">
   <img src="https://github.com/MiruHeon/Normal-Project/blob/main/KimTaeYeon.png?raw=true" alt="이미지">
 </div>
+
+# 김태연의 캐릭터 칩셋
