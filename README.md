@@ -6,6 +6,9 @@
 
 게임에 나오는 맵 타일셋은 https://indiside.com/openforum_pdsg/1461744 케이디님의 작품을 이용했습니다.
 
+## 제작 과정
+플레이어의 이동과 장애물 충동 구현은 rigidbody2d와 boxcollider2d 컴포넌트를 이용하여 충돌 이벤트를 구현했습니다.
+
 <br>
 
 ## 김태연의 캐릭터 칩셋
