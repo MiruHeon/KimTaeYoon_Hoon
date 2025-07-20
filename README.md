@@ -9,7 +9,13 @@
 
 ## 제작 과정
 ### 충돌구현
+<div align="left">
+  <img src="https://github.com/MiruHeon/Normal-Project/blob/main/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%201.png?raw=true" style="width: 300px;">
+</div>
 플레이어의 이동과 장애물 충동 구현은 rigidbody2d와 boxcollider2d 컴포넌트를 이용하여 충돌 이벤트를 구현했습니다.
+<div align="left">
+  <img src="https://github.com/MiruHeon/Normal-Project/blob/main/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%202.png?raw=true" style="width: 300px;">
+</div>
 
 <br>
 
