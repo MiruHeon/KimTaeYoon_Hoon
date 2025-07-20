@@ -18,6 +18,7 @@
 <div align="left">
   <img src="https://github.com/MiruHeon/Normal-Project/blob/main/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%202.png?raw=true" style="width: 300px;">
 </div>
+플레이어 이동 에니메이션은 animator 컴포넌트를 이용해서 구현했습니다.
 
 <br>
 
