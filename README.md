@@ -27,9 +27,14 @@
 </div>
 그림판과 도트 툴을 이용하여 제작했습니다.
 
-
 ### 카메라 이동 구현
 <div align="left">
   <img src="https://github.com/MiruHeon/Normal-Project/blob/main/lerp%20%ED%95%A8%EC%88%98%20%EC%82%AC%EC%9A%A9.png?raw=true" style="width: 300px;">
 </div>
 카메라의 이동은 Lerp 함수 (시작값:끝값:이동값)을 이용하여 구현했습니다.
+
+### 룸 이동 구현
+<div align="left">
+  <img src="https://github.com/MiruHeon/Normal-Project/blob/main/Room%20%EC%B2%98%EB%A6%AC.png?raw=true" style="width: 300px;">
+</div>
+원래는 씬으로 이동시키려고 했지만, 아직 미숙한 실력으로 인해 한 씬에서 모든걸 처리하는 시스템을 구현했습니다.
