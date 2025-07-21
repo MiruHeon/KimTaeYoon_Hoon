@@ -8,7 +8,7 @@
 <br>
 
 ## 제작 과정
-### 충돌구현
+### 충돌 구현
 <div align="left">
   <img src="https://github.com/MiruHeon/Normal-Project/blob/main/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%201.png?raw=true" style="width: 300px;">
 </div>
@@ -25,3 +25,9 @@
 <div align="left">
   <img src="https://github.com/MiruHeon/Normal-Project/blob/main/KimTaeYeon.png?raw=true" alt="이미지" style="width: 300px;">
 </div>
+
+### 카메라 이동 구현
+<div align="left">
+  <img src="https://github.com/MiruHeon/Normal-Project/blob/main/lerp%20%ED%95%A8%EC%88%98%20%EC%82%AC%EC%9A%A9.png?raw=true" style="width: 300px;">
+</div>
+카메라의 이동은 Lerp 함수 (시작값:끝값:이동값)을 이용하여 구현했습니다.
