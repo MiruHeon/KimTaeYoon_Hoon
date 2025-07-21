@@ -25,6 +25,8 @@
 <div align="left">
   <img src="https://github.com/MiruHeon/Normal-Project/blob/main/KimTaeYeon.png?raw=true" alt="이미지" style="width: 300px;">
 </div>
+그림판과 도트 툴을 이용하여 제작했습니다.
+
 
 ### 카메라 이동 구현
 <div align="left">
