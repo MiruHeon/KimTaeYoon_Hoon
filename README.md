@@ -5,9 +5,9 @@
 게임에 나오는 맵 타일셋은 https://indiside.com/openforum_pdsg/1461744 케이디님의 작품을 이용했다.
 
 # 2.팀원 소개
-| 류용헌 |
+| 류용헌 | 김태연 |
 |:------:|
-| <img src="https://github.com/MiruHeon/Normal-Project/blob/main/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%9A%A9.jpg?raw=true" alt="류용헌" width="150"> |
+| <img src="https://github.com/MiruHeon/Normal-Project/blob/main/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%9A%A9.jpg?raw=true" alt="류용헌" width="150"> | 소재 |
 | PL |
 
 # 3.제작 과정
