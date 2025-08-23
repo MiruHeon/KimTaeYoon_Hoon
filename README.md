@@ -10,7 +10,7 @@
 | <img src="https://github.com/MiruHeon/Normal-Project/blob/main/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%9A%A9.jpg?raw=true" alt="류용헌" width="150"> |
 | PL |
 
-## 3.제작 과정
+# 3.제작 과정
 ### 충돌 구현
 <div align="left">
   <img src="https://github.com/MiruHeon/Normal-Project/blob/main/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%201.png?raw=true" style="width: 300px;">
@@ -41,3 +41,7 @@
   <img src="https://github.com/MiruHeon/Normal-Project/blob/main/Room%20%EC%B2%98%EB%A6%AC.png?raw=true" style="width: 300px;">
 </div>
 원래는 씬으로 이동시키려고 했지만, 아직 미숙한 실력으로 인해 한 씬에서 모든걸 처리하는 시스템을 구현했습니다.
+
+# 4.프로젝트 총평
+처음으로 만든 유니티 2D게임이라서 새로운 작업 환경에 많이 당황하고, 고난도 겪었지만 혼자서 코드를 분석하고 써보는 과정에서 보람을 느꼈던것 같았다.
+다음에는 씬 이동과 이벤트씬 추가까지 한번 해보고 싶다는 다짐을 하게 되는 계기가 되었다.
