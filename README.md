@@ -1,13 +1,13 @@
-# 김태연의 혼 프로젝트
-'김태연의 혼 프로젝트'
-
-제 친구인 '김태연' 이라는 소재와, 근처에 유명한 공포 방탈출인 '혼' 이라는 소재를 가지고 와서
-만드는 첫 유니티 2D게임(쯔꾸르) 입니다.
-게임에 나오는 맵 타일셋은 https://indiside.com/openforum_pdsg/1461744 케이디님의 작품을 이용했습니다.
+# 1.프로젝트 개요
+제목 : '김태연의 혼 프로젝트'
+프로젝트 설명 : 친구인 '김태연' 이라는 소재와, 근처에 유명한 공포 방탈출인 '혼' 이라는 소재를 이용.
+게임에 나오는 맵 타일셋은 https://indiside.com/openforum_pdsg/1461744 케이디님의 작품을 이용.
 
 <br>
 
-## 제작 과정
+# 2.팀원 소개
+
+## 3.제작 과정
 ### 충돌 구현
 <div align="left">
   <img src="https://github.com/MiruHeon/Normal-Project/blob/main/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%201.png?raw=true" style="width: 300px;">
