@@ -1,4 +1,4 @@
-# 1.프로젝트 개요
+<img width="305" height="312" alt="image" src="https://github.com/user-attachments/assets/6656a18b-b6be-4fb4-9288-36a2585f7ffc" /># 1.프로젝트 개요
 프로젝트 제목 : 김태연의 혼
 
 프로젝트 설명 : 첫 유니티 프로젝트로서 기본적인 캐릭터 이동 , 룸 이동 , 충돌 처리만 구현해보기로 계획, 친구인 '김태연' 이라는 소재와, 근처에 유명한 공포 방탈출인 '혼' 이라는 소재를 이용하고
@@ -7,7 +7,7 @@
 # 2.팀원 소개
 | 류용헌 |
 |:------:|
-| <img src="https://github.com/MiruHeon/Normal-Project/blob/main/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%9A%A9.jpg?raw=true" alt="류용헌" width="150"> |
+| <img src="https://github.com/MiruHeon/Normal-Project/blob/main/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%9A%A92.png?raw=true" alt="류용헌" width="150"> |
 | PL |
 
 # 3.제작 과정
