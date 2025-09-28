@@ -7,7 +7,7 @@
 # 2.팀원 소개
 | 류용헌 |
 |:------:|
-| <img src="https://github.com/MiruHeon/Normal-Project/blob/main/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%9A%A92.png?raw=true" alt="류용헌" width="150"> |
+| <img src="https://github.com/MiruHeon/Normal-Project/blob/main/193119713.jpeg?raw=true" alt="류용헌" width="150"> |
 | PL |
 
 # 3.제작 과정
